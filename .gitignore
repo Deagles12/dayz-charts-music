@@ -1,0 +1,13 @@
+*
+!*/
+!/.gitignore
+!/README.md
+!/mod.cpp
+!/meta.cpp
+!/addons/*/config.cpp
+!/addons/*/$PBOPREFIX$
+!/ServerFiles/classnames.txt
+!/ServerFiles/types_deagles_charts_music.xml
+!/ServerFiles/TraderConfig_DeaglesChartsMusic_DrJ0nes_INSERT.txt
+!/Keys/DeaglesChartsMusic.bikey
+!/LICENSE

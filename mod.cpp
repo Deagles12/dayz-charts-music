@@ -1,0 +1,10 @@
+name = "Charts Music";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "Charts Music";
+overview = "Custom cassette music pack for Zen's Music. Includes chart music cassettes from 1983 to 2000. 180 cassettes total.";
+action = "";
+author = "Deagles";
+version = "2.0";
